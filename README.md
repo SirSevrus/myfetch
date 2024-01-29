@@ -17,4 +17,19 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/myfetch.git
+   git clone https://github.com/SirSevrus/myfetch.git
+
+## Adding MyFetch to System Path:
+
+To make it even more convenient to use **MyFetch** across your system, you can easily add `myfetch.exe` to your system's PATH. Here's how:
+
+1. Download the `add_to_path.exe` utility from the [releases page](https://github.comSirSevrus/myfetch/releases/tag/v1.0.0).
+
+2. Open a terminal or command prompt.
+
+3. Navigate to the directory where you downloaded `add_to_path.exe`.
+
+4. Run the following command:
+
+   ```bash
+   add_to_path.exe --add myfetch.exe
