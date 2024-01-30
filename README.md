@@ -19,11 +19,11 @@
    ```bash
    git clone https://github.com/SirSevrus/myfetch.git
 
-## Adding MyFetch to System Path:
+## Adding MyFetch to System Path On Windows:
 
 To make it even more convenient to use **MyFetch** across your system, you can easily add `myfetch.exe` to your system's PATH. Here's how:
 
-1. Download the `add_to_path.exe` utility from the [releases page](https://github.comSirSevrus/myfetch/releases/tag/v1.0.0).
+1. Download the `add_to_path.exe` utility from the [releases page](https://github.com/SirSevrus/myfetch/releases).
 
 2. Open a terminal or command prompt.
 
@@ -32,4 +32,4 @@ To make it even more convenient to use **MyFetch** across your system, you can e
 4. Run the following command:
 
    ```bash
-   add_to_path.exe --add myfetch.exe
+   .\add_to_path.exe --add myfetch.exe
