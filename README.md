@@ -19,6 +19,10 @@
    ```bash
    git clone https://github.com/SirSevrus/myfetch.git
 
+2. Installation on Linux
+   ```bash
+   python3 installer.py
+
 ## Adding MyFetch to System Path On Windows:
 
 To make it even more convenient to use **MyFetch** across your system, you can easily add `myfetch.exe` to your system's PATH. Here's how:
